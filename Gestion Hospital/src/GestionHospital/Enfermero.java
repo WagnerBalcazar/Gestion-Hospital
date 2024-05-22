@@ -1,6 +1,6 @@
 package GestionHospital;
 
-public class Enfermero {
+public class Enfermero extends Persona {
     //atributos
     //metodos
     public void ayudarPaciente() {
